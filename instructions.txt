@@ -1,0 +1,8 @@
+All quizzes have 3 non-skippable questions of 10 seconds each.
+You can start your quiz by going to your registered quiz section.
+<b>For 2 and 5 no. of players, slots must be filled otherwise the quiz will be disabled.
+In the above case, your ticket/entry fee will be refunded in your wallet.</b>
+To withdraw your earned money, you must fillup the add bank account section.
+<b>Quiz will be live only for 10 seconds on your registered quiz section.</b>
+Don't refresh the page during any quiz, you will lose your own time.
+Rank will be updated after 2 minutes of quiz completion.

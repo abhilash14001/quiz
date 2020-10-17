@@ -1,0 +1,22 @@
+[02-Feb-2020 05:36:35 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[02-Feb-2020 05:40:36 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[02-Feb-2020 05:40:59 UTC] PHP Notice:  Undefined index: rollno in /home/j0dnk0xpuw3q/public_html/quiz/sign.php on line 11
+[02-Feb-2020 05:43:58 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[02-Feb-2020 05:44:17 UTC] PHP Notice:  Undefined index: rollno in /home/j0dnk0xpuw3q/public_html/quiz/sign.php on line 11
+[02-Feb-2020 05:45:51 UTC] PHP Notice:  Undefined index: rollno in /home/j0dnk0xpuw3q/public_html/quiz/sign.php on line 11
+[03-Feb-2020 03:12:58 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[03-Feb-2020 03:13:14 UTC] PHP Notice:  Undefined index: rollno in /home/j0dnk0xpuw3q/public_html/quiz/sign.php on line 11
+[18-Feb-2020 13:02:54 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[18-Feb-2020 13:03:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'zupee'@'localhost' (using password: YES) in /home/j0dnk0xpuw3q/public_html/quiz/dbConnection.php on line 2
+[18-Feb-2020 13:03:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'zupee'@'localhost' (using password: YES) in /home/j0dnk0xpuw3q/public_html/quiz/dbConnection.php on line 3
+[18-Feb-2020 13:03:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/j0dnk0xpuw3q/public_html/quiz/login.php on line 16
+[18-Feb-2020 13:03:11 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[18-Feb-2020 13:03:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'zupee'@'localhost' (using password: YES) in /home/j0dnk0xpuw3q/public_html/quiz/dbConnection.php on line 2
+[18-Feb-2020 13:03:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'zupee'@'localhost' (using password: YES) in /home/j0dnk0xpuw3q/public_html/quiz/dbConnection.php on line 3
+[18-Feb-2020 13:03:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/j0dnk0xpuw3q/public_html/quiz/login.php on line 16
+[18-Feb-2020 13:03:21 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[28-Feb-2020 06:40:18 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[28-Feb-2020 06:40:27 UTC] PHP Notice:  Undefined index: phno in /home/j0dnk0xpuw3q/public_html/quiz/index.php on line 159
+[28-Feb-2020 06:40:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'zupee'@'localhost' (using password: YES) in /home/j0dnk0xpuw3q/public_html/quiz/dbConnection.php on line 2
+[28-Feb-2020 06:40:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'zupee'@'localhost' (using password: YES) in /home/j0dnk0xpuw3q/public_html/quiz/dbConnection.php on line 3
+[28-Feb-2020 06:40:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/j0dnk0xpuw3q/public_html/quiz/login.php on line 16
